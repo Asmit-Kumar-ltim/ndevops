@@ -1,0 +1,9 @@
+RHCSA - RHEL 10
+AWS - SAA 
+CKA
+TCA - Teraform Certified Associalte
+
+AZ400 
+AZ104 - can study these two from udemy by Alan Rodrigues
+
+write Devops and sre engineer in your bio
